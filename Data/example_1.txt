@@ -1,0 +1,2 @@
+This is a regular file.
+It has some lines, and some punctuation.
